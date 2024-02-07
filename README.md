@@ -19,7 +19,7 @@
 
   
 
-- ## 🌐 Socials:
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/amanrwt455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanrwt455" height="30" width="40" /></a>
 <a href="https://instagram.com/_love_sucker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_love_sucker_" height="30" width="40" /></a>
