@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **amanrwt455@gmail.com**
 
-- ⚡ Fun fact : **I love creating content.**
+- ⚡ Fun fact : **I love creating content.**<br>
                  **I love helping others.**
   
 
